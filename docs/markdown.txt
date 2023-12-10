@@ -1,0 +1,10 @@
+
+# Header 1
+This is a *bold statement*
+I am #1
+This is just plain text. No special markdown.
+
+* This is a list
+* lists don't need to change
+
+Well sh*t.
